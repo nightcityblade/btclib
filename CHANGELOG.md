@@ -41,6 +41,11 @@ file per release is what keeps each of them under it.
 
 ## v2026.10 (work in progress, not released yet)
 
+### `SECURITY.md` promises a response time
+
+`SECURITY.md` says a report is acknowledged within 7 days, and a fix or a
+published advisory within 90 (issue btclib-org/.github#1460).
+
 ## v2026.9.30
 
 ### The libsecp256k1 symbol pin is upstream's tip again
